@@ -1,0 +1,36 @@
+body{
+    color: white;
+}
+h1{
+    color: black;
+}
+#p1{
+    color: olive;
+}
+#p2{
+    color: honeydew;
+}
+#p3{
+    color: lightcoral;
+}
+body{
+    background-color: aliceblue;
+}
+#p10{
+    color: tomato;
+}
+#p20{
+    color: rgb(102, 50, 200);
+}
+#p30{
+    color: #59ff5f;
+}
+#p40{
+    color: hsl(228, 21, 21);
+}
+h1{
+    font-family: verdana;
+}
+p{
+    font-family: lucida;
+}
